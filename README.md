@@ -1,3 +1,10 @@
-<h1>Bolão Copa 2022</h1>
+# Bolão da Copa
 
-<p>Este projeto está em desenvolvimento, acompanhando o avanço da disciplina Programação Orientada a Objetos II, Universidade de Vila Velha</p>
+Este projeto corresponde ao desenvolvimento do Bolão da Copa como forma de avaliação da disciplina de Programação Orientada a Objetos.
+
+### Tecnologias Utilizadas
+
+
+### Guia de Desenvolvimento
+
+

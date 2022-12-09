@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BolaoApplication<bolao>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.otaviolube.bolao.BolaoApplication",
+            "projectName": "bolao",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
