@@ -4,12 +4,12 @@ Este projeto corresponde ao desenvolvimento do Bolão da Copa como forma de aval
 
 ### Tecnologias Utilizadas
 
-Java
-Springboot
-Thymeleaf
-H2 DB
-JPA
-Lombok
+Java <br>
+Springboot <br>
+Thymeleaf <br>
+H2 DB <br>
+JPA <br>
+Lombok <br>
 
 ## Problemas Conhecidos ## 
 
