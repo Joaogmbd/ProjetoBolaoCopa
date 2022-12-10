@@ -20,7 +20,7 @@ public class AuthController {
     UserRepository userRepository;
 
     public AuthController() {
-        this.isAuthenticated = true;
+        this.isAuthenticated = false;
     }
 
     @GetMapping(value = "/teste")
@@ -58,7 +58,7 @@ public class AuthController {
         if(this.isAuthenticated){
             return "index";
         }else{
-            return "index";
+            return "login";
         }
     }
 
