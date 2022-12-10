@@ -29,6 +29,7 @@ public class AuthController {
         return "index";
     }
 
+
     @GetMapping(value = "/")
     public String index(Model model){
         if(this.isAuthenticated){
