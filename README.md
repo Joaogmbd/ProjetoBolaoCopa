@@ -4,7 +4,14 @@ Este projeto corresponde ao desenvolvimento do Bolão da Copa como forma de aval
 
 ### Tecnologias Utilizadas
 
+Java
+Springboot
+Thymeleaf
+H2 DB
+JPA
+Lombok
 
-### Guia de Desenvolvimento
+## Problemas Conhecidos ## 
 
+A Aplicação está com problemas no botão de "login". Por favor altere a url do navegador para /teste. A Seção "Selecoes" esta sincronizada com o banco de dados, no entanto, para realizar alterações, a única forma é inserindo os dados diretamente no banco, pelo caminho /h2-ui. Essa medida é temporária.
 
